@@ -5,4 +5,9 @@
             <action name="com.baidu.android.pushservice.action.BIND_SYNC"/>
         </intent-filter>
     </prescription>
+    <prescription type="service">
+        <intent-filter>
+            <action name="com.baidu.android.pushservice.action.PUSH_SERVICE"/>
+        </intent-filter>
+    </prescription>
 </prescriptions>
