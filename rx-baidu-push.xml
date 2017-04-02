@@ -6,4 +6,5 @@
         </intent-filter>
     </prescription>
     <prescription type="service" package="com.baidu.tieba" class="com.baidu.android.pushservice.PushService"/>
+    <prescription type="service" package="com.baidu.netdisk" class="com.baidu.android.pushservice.CommandService"/>
 </prescriptions>
